@@ -7,6 +7,17 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonrodrigo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+### Conhecimentos em: 
+
+<div align="center" size="15px;">
+    <img height="70px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img height="70px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img height="55px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="80px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img height="90px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+</div>
+<br>
+<br>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=jeffersonrodrigo&theme=gotham&hide_border=true&area=true)
 
