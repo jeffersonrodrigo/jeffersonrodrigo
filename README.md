@@ -3,35 +3,34 @@
 # Olá, eu sou o Jefferson! 👋
 
 
-## 🚀 Sobre mim
-🙂 Atualmente, estou mergulhado no mundo do monitoramento de sistemas em cloud, mas meu verdadeiro interesse está na área de desenvolvimento. Estou determinado a aprimorar minhas habilidades e me tornar um desenvolvedor proficientes em PHP.
+### 🚀 Sobre mim
 
-💻 Sou apaixonado por MySQL e adoro explorar seus recursos para criar soluções eficientes.
+🙂 Recentemente, finalizei uma experiência significativa na área de monitoramento de sistemas em cloud e agora estou focado em transição para o desenvolvimento de software. Meu objetivo é me tornar um desenvolvedor back-end especializado em PHP, sempre aprimorando minhas habilidades e expandindo meu conhecimento.
 
-🌐 Embora a parte web não seja minha especialidade, estou trabalhando para melhorar minhas habilidades em HTML e CSS. Afinal, sei que são ferramentas essenciais para qualquer desenvolvedor.
+💻 Gosto muito de bancos de dados, especialmente MySQL, e estou sempre em busca de novas maneiras de utilizar seus recursos para criar soluções eficientes e escaláveis.
 
-🐧 Tenho conhecimento básico em Linux e estou gradualmente aprofundando meu entendimento em Docker e AWS para fortalecer minhas habilidades em ambientes de nuvem.
+🌐 Embora o front-end não seja minha maior paixão, tenho investido em melhorar minhas habilidades em HTML, CSS e JavaScript, sabendo que uma base sólida no desenvolvimento web é essencial para qualquer desenvolvedor fullstack.
 
-📚 Estou sempre em busca de aprender algo novo e estou ansioso para compartilhar minha jornada de aprendizado e descoberta com vocês.
+🐧 Tenho um conhecimento intermediário de Linux e estou avançando nos estudos de Docker e AWS, com a meta de me tornar mais proficiente em ambientes de nuvem e tecnologias de containerização.
+
+📚 Estou constantemente aprendendo e crescendo, tanto em desenvolvimento quanto em outras áreas de tecnologia. Gosto de compartilhar minha jornada e espero colaborar com outros profissionais em projetos desafiadores.
 
 Vamos construir algo incrível juntos! 🌟
 
+### Mais informações
+👩‍💻 Anteriormente, fui Operador Técnico Júnior na GwCloud, onde trabalhei principalmente com monitoramento de sistemas em nuvem. Agora, estou focado em transição para o desenvolvimento de software.
 
-## Mais informações
+🧠 Atualmente, estou mergulhado em estudos de PHP, MySQL, Java, e Docker, buscando me especializar como desenvolvedor back-end.
 
-👩‍💻 Atualmente, sou Operador Técnico Júnior na GwCloud, onde trabalho principalmente com monitoramento de sistemas em nuvem.
+👯‍♀️ Estou aberto a colaborar em projetos que me permitam aplicar e aprimorar minhas habilidades em desenvolvimento de software, especialmente em back-end.
 
-🧠 Estou dedicando meu tempo para aprender PHP, MySQL, Java e Docker, buscando expandir minhas habilidades e conhecimentos na área de desenvolvimento.
+🤔 Estou em busca de orientação e feedback para estruturar melhor meus estudos e alcançar meus objetivos de carreira.
 
-👯‍♀️ Estou aberto a colaborar em projetos que me permitam aplicar e aprimorar minhas habilidades em desenvolvimento de software.
+💬 Sinta-se à vontade para conversar comigo sobre monitoramento de sistemas, desenvolvimento web, ou qualquer outro tópico relacionado à tecnologia!
 
-🤔 Procuro orientação sobre qual caminho seguir em minha jornada de aprendizado e como estruturar meus estudos para melhorar constantemente minhas habilidades.
+📫 Você pode me encontrar no LinkedIn ou entrar em contato via e-mail: jeffersonrodrigoaguiar@gmail.com
 
-💬 Me pergunte sobre qualquer coisa relacionada a monitoramento de sistemas em nuvem, desenvolvimento web, ou sobre como iniciar sua jornada na área de tecnologia!
-
-📫 Você pode entrar em contato comigo pelo LinkedIn ou via e-mail: jeffersonrodrigoaguiar@gmail.com
-
-⚡️ Fora do mundo da tecnologia, sou apaixonado por assistir animes, jogar videogames e jogos de tabuleiro, e também adoro ler.
+⚡️ Fora do mundo da tecnologia, sou apaixonado por animes, jogos de tabuleiro e livros, hobbies que me ajudam a recarregar as energias e estimular a criatividade.
 
 
 ### Conhecimentos em: 
