@@ -1,37 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-# Olá, eu sou o Jefferson! 👋
+🚀 Sobre Mim
 
+Recentemente, finalizei uma trajetória sólida na área de monitoramento de sistemas em cloud e estou em transição para o desenvolvimento de software, com foco em back-end. Atualmente, atuo também com suporte técnico, o que me proporciona uma visão prática dos desafios diários em TI. Conquistei a certificação AWS Certified Cloud Practitioner, reforçando minha base em cloud computing e as melhores práticas da AWS.
 
-### 🚀 Sobre mim
+💻 O que me move:
 
-🙂 Recentemente, finalizei uma experiência significativa na área de monitoramento de sistemas em cloud e agora estou focado em transição para o desenvolvimento de software. Meu objetivo é me tornar um desenvolvedor back-end especializado em PHP, sempre aprimorando minhas habilidades e expandindo meu conhecimento.
+Bancos de Dados: Tenho paixão por MySQL e estou sempre explorando novas maneiras de otimizar seu uso.
+Desenvolvimento Web: Mesmo com foco no back-end, mantenho meus conhecimentos em HTML, CSS e JavaScript atualizados para uma visão completa do desenvolvimento.
+🐧 Ferramentas e Tecnologias:
 
-💻 Gosto muito de bancos de dados, especialmente MySQL, e estou sempre em busca de novas maneiras de utilizar seus recursos para criar soluções eficientes e escaláveis.
+Ambiente Linux: Conhecimento intermediário para lidar com desafios diários.
+Containers & Cloud: Aprofundo meus estudos em Docker e AWS para dominar ambientes de nuvem e tecnologias de containerização.
+📚 Aprendizado Contínuo:
+Acredito na evolução constante por meio de cursos, projetos colaborativos e feedbacks construtivos. Minha experiência como Operador Técnico Júnior na GwCloud me proporcionou uma base prática que agora estou direcionando para o desenvolvimento de software.
 
-🌐 Embora o front-end não seja minha maior paixão, tenho investido em melhorar minhas habilidades em HTML, CSS e JavaScript, sabendo que uma base sólida no desenvolvimento web é essencial para qualquer desenvolvedor fullstack.
+🤝 Vamos Conectar:
+Estou sempre aberto a novas colaborações e a trocar ideias sobre tecnologia.
+📫 Contato: LinkedIn | jeffersonrodrigoaguiar@gmail.com
 
-🐧 Tenho um conhecimento intermediário de Linux e estou avançando nos estudos de Docker e AWS, com a meta de me tornar mais proficiente em ambientes de nuvem e tecnologias de containerização.
-
-📚 Estou constantemente aprendendo e crescendo, tanto em desenvolvimento quanto em outras áreas de tecnologia. Gosto de compartilhar minha jornada e espero colaborar com outros profissionais em projetos desafiadores.
+🎨 Além da Tecnologia:
+Apaixonado por animes, jogos de tabuleiro e livros, hobbies que me inspiram e recarregam minha criatividade.
 
 Vamos construir algo incrível juntos! 🌟
-
-### Mais informações
-👩‍💻 Anteriormente, fui Operador Técnico Júnior na GwCloud, onde trabalhei principalmente com monitoramento de sistemas em nuvem. Agora, estou focado em transição para o desenvolvimento de software.
-
-🧠 Atualmente, estou mergulhado em estudos de PHP, MySQL, Java, e Docker, buscando me especializar como desenvolvedor back-end.
-
-👯‍♀️ Estou aberto a colaborar em projetos que me permitam aplicar e aprimorar minhas habilidades em desenvolvimento de software, especialmente em back-end.
-
-🤔 Estou em busca de orientação e feedback para estruturar melhor meus estudos e alcançar meus objetivos de carreira.
-
-💬 Sinta-se à vontade para conversar comigo sobre monitoramento de sistemas, desenvolvimento web, ou qualquer outro tópico relacionado à tecnologia!
-
-📫 Você pode me encontrar no LinkedIn ou entrar em contato via e-mail: jeffersonrodrigoaguiar@gmail.com
-
-⚡️ Fora do mundo da tecnologia, sou apaixonado por animes, jogos de tabuleiro e livros, hobbies que me ajudam a recarregar as energias e estimular a criatividade.
-
 
 ### Conhecimentos em: 
 
@@ -41,6 +32,7 @@ Vamos construir algo incrível juntos! 🌟
     <img height="55px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height="80px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img height="90px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+    <img height="90px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 <br>
 <br>
